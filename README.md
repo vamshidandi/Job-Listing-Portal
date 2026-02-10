@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Portal
 
 A full-stack job portal application built with Django REST Framework and React, enabling users to browse jobs, apply for positions, and track their applications.
@@ -532,3 +533,6 @@ Harivarshan-UG | Django Developer
 - React documentation
 - Tailwind CSS
 - Vite build tool
+=======
+# Job-Listing-Portal
+>>>>>>> 6a04add9a3dfe739117020ff50aedc5d319e5e84
